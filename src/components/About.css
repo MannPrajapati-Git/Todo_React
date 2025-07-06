@@ -1,0 +1,17 @@
+/* About.css */
+
+.about-container {
+  min-height: calc(100vh - 120px); /* Adjust based on your Navbar and Footer height */
+  padding: 40px;
+  box-sizing: border-box;
+}
+
+.about-heading {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.about-text {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
